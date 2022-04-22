@@ -74,7 +74,8 @@ h2 {
 .T {
   color: rgb(255, 4, 4);
   display: flex;
-  justify-content: center;
+  margin-bottom: 17vh;
+  margin-left: 30vw;
 }
 
 .P {
@@ -82,6 +83,19 @@ h2 {
   display: flex;
   justify-content: center;
   margin-right: 4vw;
+}
+
+.zoe{
+  font-size: 29px;
+  width: 46vw;
+}
+
+.ronan{
+  font-size: 29px;
+}
+
+.Natheerah{
+font-size: 29px;
 }
 /* End of section headings */
 
@@ -172,9 +186,11 @@ meter {
 .work-holiday {
   display: flex;
 
+
   #testimonials {
     color: blue;
   }
+
   .T-Container {
     display: flex;
     flex-direction: row;
@@ -200,25 +216,27 @@ meter {
 }
 
 img.img-2 {
-  display: flex;
 }
 
 .img-1 {
   display: table-caption;
-  margin-left: 12vw;
-  margin-top: 7vh;
+  margin-left: 13vw;
+  margin-top: 6vh;
+  width: auto;
 }
 
 .img-2 {
   display: table-caption;
-  margin-left: 55vw;
+  margin-left: 46vw;
   margin-top: 6vh;
-  font-size: 20px;
+  font-size: 19px;
+  width: auto;
+  
 }
 
 .img-3 {
   display: table-caption;
-  margin-left: 17vw;
+  margin-left: 7vw;
   margin-bottom: 20vh;
 }
 form {
@@ -262,7 +280,7 @@ textarea {
   resize: vertical;
 }
 
-input[type="submit"] {
+button[type="submit"] {
   background-color: #041cf1;
   color: white;
   padding: 12px 20px;
@@ -274,7 +292,7 @@ input[type="submit"] {
   margin-top: 3vh;
 }
 
-input[type="submit"]:hover {
+button[type="submit"]:hover {
   background-color: #000000;
 }
 
@@ -288,7 +306,7 @@ input[type="submit"]:hover {
   color: #19bcc1;
   display: flex;
   font-size: 45px;
-  margin-right: 16vw;
+  margin-right: 21vw;
   justify-content: flex-end;
 }
 section:nth-of-type(odd) {
