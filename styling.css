@@ -85,30 +85,17 @@ h2 {
   margin-right: 4vw;
 }
 
-<<<<<<< HEAD
-.zoe {
-=======
 .zoe{
->>>>>>> 991bd58f599c9e33a5162bbfebdc7a8e5b558609
   font-size: 29px;
   width: 46vw;
 }
 
-<<<<<<< HEAD
-.ronan {
-  font-size: 29px;
-}
-
-.Natheerah {
-  font-size: 29px;
-=======
 .ronan{
   font-size: 29px;
 }
 
 .Natheerah{
 font-size: 29px;
->>>>>>> 991bd58f599c9e33a5162bbfebdc7a8e5b558609
 }
 /* End of section headings */
 
@@ -244,10 +231,7 @@ img.img-2 {
   margin-top: 6vh;
   font-size: 19px;
   width: auto;
-<<<<<<< HEAD
-=======
   
->>>>>>> 991bd58f599c9e33a5162bbfebdc7a8e5b558609
 }
 
 .img-3 {
@@ -322,11 +306,7 @@ button[type="submit"]:hover {
   color: #19bcc1;
   display: flex;
   font-size: 45px;
-<<<<<<< HEAD
-  margin-right: 15vw;
-=======
   margin-right: 21vw;
->>>>>>> 991bd58f599c9e33a5162bbfebdc7a8e5b558609
   justify-content: flex-end;
 }
 section:nth-of-type(odd) {
