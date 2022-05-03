@@ -6,6 +6,13 @@
   scroll-behavior: smooth;
 }
 
+.table{
+  background-color: #000;
+}
+.navbar-nav{
+  z-index: 50px;
+  
+}
 #testimonials{
   background: linear-gradient( rgba 13, 110, 253, 0.7,
   rgba 13, 110,253, 0.7);
@@ -13,6 +20,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+  background-color: #000000;
   
 }
 
@@ -51,7 +59,10 @@
   justify-content: center;
   margin-right: 4vw;
 }
-
+#slide-image{
+ height: 50vh;
+ width: fit-content;
+}
 section {
   min-height: 100vh;
 }
