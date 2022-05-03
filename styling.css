@@ -52,24 +52,6 @@
   margin-right: 4vw;
 }
 
-<<<<<<< HEAD
-=======
-.zoe{
-  font-size: 29px;
-  width: 46vw;
-}
-
-.ronan{
-  font-size: 29px;
-}
-
-.Natheerah{
-font-size: 29px;
-}
-/* End of section headings */
-
-/* Section Styles */
->>>>>>> 456ecdce90d2b78b1e06e552db7ee07a1e536a5f
 section {
   min-height: 100vh;
 }
@@ -104,8 +86,12 @@ textarea {
   width: 50%;
   font-size: 25px;
 }
+#contact{
+  background: #000;
+}
+
 .my-details {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 254, 254);
   display: flex;
   margin-left: 63vw;
   font-size: 33px;
@@ -325,10 +311,6 @@ meter {
   margin-top: 6vh;
   font-size: 19px;
   width: auto;
-<<<<<<< HEAD
-=======
-  
->>>>>>> 456ecdce90d2b78b1e06e552db7ee07a1e536a5f
 }
 
 .img-3 {
@@ -337,74 +319,3 @@ meter {
   margin-bottom: 20vh;
 } */
 
-<<<<<<< HEAD
-=======
-h3.contact-details {
-  font-size: 40px;
-  color: white;
-  display: flex;
-  justify-content: center;
-}
-
-textarea {
-  width: 50%;
-  font-size: 25px;
-}
-.my-details {
-  color: rgb(244, 238, 238);
-  display: flex;
-  margin-left: 63vw;
-  font-size: 33px;
-  max-width: min-content;
-  margin-top: -24vh;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-input[type="text"],
-select,
-textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 75px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-button[type="submit"] {
-  background-color: #041cf1;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  width: 25%;
-  margin-left: 36vw;
-  margin-top: 3vh;
-}
-
-button[type="submit"]:hover {
-  background-color: #000000;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-
-.icons {
-  color: #19bcc1;
-  display: flex;
-  font-size: 45px;
-  margin-right: 21vw;
-  justify-content: flex-end;
-}
-section:nth-of-type(odd) {
-  background-color: black;
-}
->>>>>>> 456ecdce90d2b78b1e06e552db7ee07a1e536a5f
