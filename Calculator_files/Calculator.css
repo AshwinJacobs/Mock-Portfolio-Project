@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(13, 2, 167);
+}
+#Output {
+  border: rgb(0, 0, 0);
+  height: 50px;
+  border-style: solid;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  color: white;
+}
+.Buttons-container {
+  max-width: 400px;
+  margin: 2vh auto 0 auto;
+}
+.display {
+  color: blue;
+  display: grid;
+  justify-content: center;
+  height: 90px;
+  line-height: 70px;
+  padding: 16px 8px;
+  font-size: 25px;
+}
+
+.Buttons-container {
+  display: flex;
+  align-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-around;
+  display: grid;
+  border-left: 1px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+button:hover {
+  background-color: darkorange;
+}
+button {
+  width: 20%;
+  padding: 50px;
+  font-size: 20px;
+  border-radius: 70%;
+  aspect-ratio: 1.3;
+  gap: 50px;
+  background-color: darkred;
+  color: cyan;
+}
